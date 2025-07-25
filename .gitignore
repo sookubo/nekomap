@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 仮想環境
+.venv/
+venv/
+ENV/
+
+# MkDocs
+site/
+
+# VSCode
+.vscode/
+
+# その他
+.DS_Store
+Thumbs.db 
