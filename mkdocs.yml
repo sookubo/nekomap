@@ -1,3 +1,10 @@
 site_name: My Docs
 theme:
   name: material
+nav:
+  - index.md
+  - how-to-use.md
+  - important-notes.md
+  - troubleshooting.md
+  - privacy-policy.md
+  - feedback.md
