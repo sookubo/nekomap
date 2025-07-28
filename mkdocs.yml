@@ -1,6 +1,7 @@
 site_name: My Docs
 theme:
   name: material
+  font: Noto Sans Japanese
 nav:
   - index.md
   - how-to-use.md
